@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Секреты и пароли — НИКОГДА не коммитить!
+login_password.txt
+*.env
+*.key
+secrets/
+credentials/
+config_password*
